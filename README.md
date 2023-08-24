@@ -1,3 +1,3 @@
 # Udder
 
-This is an app give you demand fresh cow i\milk
+This is an app give you demand fresh cow milk.
